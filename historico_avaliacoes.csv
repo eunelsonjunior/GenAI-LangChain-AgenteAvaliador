@@ -1,0 +1,12 @@
+human,"Classifique o sentimento da seguinte avaliação (conteúdo em JSON):
+""Bom, mas poderia ser melhor. O som é excelente, mas tive alguns problemas com a durabilidade do cabo. Poderiam melhorar nisso."""
+assistant,"{""sentiment"":""negativa"",""confidence"":0.6}"
+human,"Classifique o sentimento da seguinte avaliação (conteúdo em JSON):
+""Adorei o design, som cristalino e super confortável. Vale cada centavo! Ideal para ouvir música ou até mesmo trabalhar. Super recomendo!"""
+assistant,"{""sentiment"":""positiva"",""confidence"":1.0}"
+human,"Classifique o sentimento da seguinte avaliação (conteúdo em JSON):
+""Deixou a desejar. O som é bom, mas esperava mais pelo preço. O cabo parece frágil e não é tão confortável quanto eu imaginava."""
+assistant,"{""sentiment"":""negativa"",""confidence"":0.85}"
+human,"Classifique o sentimento da seguinte avaliação (conteúdo em JSON):
+""Produto incrível! A qualidade do som é surpreendente, e o conforto é incomparável. Muito feliz com a compra, recomendo sem hesitar."""
+assistant,"{""sentiment"":""positiva"",""confidence"":1.0}"
